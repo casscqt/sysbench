@@ -1,0 +1,53 @@
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 16
+Report intermediate results every 10 second(s)
+Random number generator seed is 0 and will be ignored
+
+
+Threads started!
+
+[  10s] threads: 16, tps: 1850.64, reads/s: 0.00, writes/s: 1851.44, response time: 19.28ms (95%)
+[  20s] threads: 16, tps: 1898.23, reads/s: 0.00, writes/s: 1898.23, response time: 16.81ms (95%)
+[  30s] threads: 16, tps: 1885.62, reads/s: 0.00, writes/s: 1885.82, response time: 17.22ms (95%)
+[  40s] threads: 16, tps: 1898.30, reads/s: 0.00, writes/s: 1898.10, response time: 17.41ms (95%)
+[  50s] threads: 16, tps: 1938.79, reads/s: 0.00, writes/s: 1938.79, response time: 16.93ms (95%)
+[  60s] threads: 16, tps: 1821.46, reads/s: 0.00, writes/s: 1821.46, response time: 17.60ms (95%)
+[  70s] threads: 16, tps: 1873.60, reads/s: 0.00, writes/s: 1873.60, response time: 17.05ms (95%)
+[  80s] threads: 16, tps: 1875.28, reads/s: 0.00, writes/s: 1875.28, response time: 17.33ms (95%)
+[  90s] threads: 16, tps: 1904.56, reads/s: 0.00, writes/s: 1904.56, response time: 17.10ms (95%)
+[ 100s] threads: 16, tps: 1873.12, reads/s: 0.00, writes/s: 1873.12, response time: 17.12ms (95%)
+[ 110s] threads: 16, tps: 1845.84, reads/s: 0.00, writes/s: 1846.44, response time: 17.43ms (95%)
+[ 120s] threads: 16, tps: 1821.93, reads/s: 0.00, writes/s: 1821.33, response time: 17.79ms (95%)
+[ 130s] threads: 16, tps: 1869.81, reads/s: 0.00, writes/s: 1869.81, response time: 17.22ms (95%)
+[ 140s] threads: 16, tps: 1898.84, reads/s: 0.00, writes/s: 1898.84, response time: 17.24ms (95%)
+[ 150s] threads: 16, tps: 1771.70, reads/s: 0.00, writes/s: 1771.70, response time: 18.33ms (95%)
+[ 160s] threads: 16, tps: 1816.76, reads/s: 0.00, writes/s: 1816.76, response time: 18.18ms (95%)
+[ 170s] threads: 16, tps: 1868.19, reads/s: 0.00, writes/s: 1868.09, response time: 17.45ms (95%)
+[ 180s] threads: 16, tps: 1908.82, reads/s: 0.00, writes/s: 1908.12, response time: 16.65ms (95%)
+OLTP test statistics:
+    queries performed:
+        read:                            0
+        write:                           336188
+        other:                           672376
+        total:                           1008564
+    transactions:                        336188 (1867.62 per sec.)
+    deadlocks:                           0      (0.00 per sec.)
+    read/write requests:                 336188 (1867.62 per sec.)
+    other operations:                    672376 (3735.24 per sec.)
+
+General statistics:
+    total time:                          180.0090s
+    total number of events:              336188
+    total time taken by event execution: 2875.7657s
+    response time:
+         min:                                  0.28ms
+         avg:                                  8.55ms
+         max:                                384.23ms
+         approx.  95 percentile:              17.36ms
+
+Threads fairness:
+    events (avg/stddev):           21011.7500/358.51
+    execution time (avg/stddev):   179.7354/0.04
+

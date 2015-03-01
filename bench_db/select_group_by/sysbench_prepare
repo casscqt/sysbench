@@ -1,0 +1,337 @@
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 200000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 200000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 200000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 200000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -200000 records into 'sbtest1'
+Inserting -200000 records into 'sbtest2'
+Inserting -200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 200000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 200000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -200000 records into 'sbtest1'
+Inserting -200000 records into 'sbtest2'
+Inserting -200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 1000000 records into 'sbtest1'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest1(k1, k2, c, pad) VALUES(650468,529176,'04057934501-67700504514-59429999044-03150118790-50542039237-99132064157-37650323652-64134369728-81522480686-71482504545', '41434243454-28671927776-75885851796-47033639232-54053536578'),(811476,780098,'30684068057-88785987484-58150266968-85656383569-86103396681-69124979179-42001866778-81494104351-71600998819-79263821438', '86146675018-10503055421-12524139236-36466952460-38279740088'),(758606,75730,'59473779641-94857652866-80470400903-86773445590-86962374889-50487219829-37431963491-33966463915-07828755710-91695298952', '36387088246-10918002751-30476290733-93389187658-15501733545'),(327434,772057,'09374674590-39544190497-76168917422-00921651322-11519124481-81521520620-42259736929-21150689852-48394636697-16288917347', '54816743039-85235702938-28490537642-41653135928-73772862218'),(457749,349961,'53802731037-44211234119-97035719428-10189311028-25028869247-76355610000-71002783046-88430246801-34525599117-52665990974', '62392709334-74215817962-90664114682-84514575750-72100793704'),(584353,809517,'45756678507-30296065797-06356348279-33245191151-47311960317-29088938761-39006128175-40824530634-24965525299-80674751812', '50142562183-43096375820-73892738952-62298266973-21485678540'),(995725,539737,'38392934337-40855466257-34341155741-77491630369-69419726361-27611691778-70917017541-51358907816-81869976754-31897604533', '58572171836-67883739140-99349250479-63151878990-75800917586'),(794451,109661,'30736963811-19314076708-79281488342-66790417542-22593332090-28683407895-22112923807-44549065424-46103935292-19950952101', '18329319240-28296982593-65561715602-98492502761-32203196734'),(336388,225404,'89777107280-25248476510-09770695060-49945638895-44199141502-82578935975-54039399073-98981391060-74554725710-01589183828', '65230993480-15891458836-49946823922-14745499396-19915378781'),(94332,546241,'53350452643-70294356084-67955642410-35560266243-95126582703-40249098120-63401461260-89904096090-46834337284-78317931434', '19827291853-27554471779-49410466864-64580824141-28700440032'),(209690,68334,'69329036838-16831523308-44289583856-30561239233-78287256175-52589564235-28086868575-23174969311-60546840760-40818266398', '38446051325-75288625427-60439377079-52828521842-00365560126'),(838072,537129,'66543026135-19982027362-43863982639-89638090800-20373747721-88354923326-88290343195-71847771083-48688745698-53734088626', '90339213672-86733862586-37303936069-81849790467-14455793795'),(795128,531889,'02055589074-54461575396-17705616406-44346674562-93985634735-66382517870-61459710699-42729143094-64300783432-49791823808', '95822466051-95562838561-32437563418-75380407114-46073207346'),(488359,134712,'36630074803-85655265736-19680443062-67782487407-18365333477-25267147960-64141805986-49009292044-23223213275-63571552040', '12005427098-39520361611-09809718900-11491095584-30074973444'),(716350,101991,'11515932990-78766513618-61226274885-03326709843-22035541533-94890369687-00348673375-14742505323-31802976491-33552413325', '65618105979-93850879906-99401908900-51753507534-37078518392'),(754142,925520,'40114473029-32655727559-38821639039-94231598771-85077746472-08339074082-37588809068-25790086386-74212460606-68685470957', '41018978551-85806140865-35605413222-01046215134-40300995159'),(155765,854591,'70988489540-81123473296-59675733938-89037085228-64764178965-26179224410-07821767278-13988549854-36207646751-63323885974', '77834306661-31089007824-48410669699-73768474319-10095882333'),(353013,871576,'84291763808-16496775878-98676414705-72304857247-78641910045-97251341255-88691818014-41046361437-85791053312-29851872990', '04494440697-25929743957-69611182160-48600538706-91121569863'),(103994,181900,'95247313189-13660713219-29474016829-62019221515-97397515150-13014020072-66621594002-81083406147-37075910261-21657101235', '11977542817-37761265072-26951332257-55400095790-73699750174'),(39781,675012,'41584650864-52192833019-14920968915-92167208213-70765317655-00058405975-94301755196-68388966798-75500210086-89365281987', '98720939100-72914680340-98849739207-21096222612-83714962863'),(4607ALERT: Error 1114 The table 'sbtest1' is full
+FATAL: failed to execute function `prepare': /home/nemo/lua/select_group_by/select_group_by.lua:87: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -1000000 records into 'sbtest1'
+Inserting -1000000 records into 'sbtest2'
+Inserting -1000000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 1000000 records into 'sbtest1'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest1(k1, k2, c, pad) VALUES(650468,529176,'04057934501-67700504514-59429999044-03150118790-50542039237-99132064157-37650323652-64134369728-81522480686-71482504545', '41434243454-28671927776-75885851796-47033639232-54053536578'),(811476,780098,'30684068057-88785987484-58150266968-85656383569-86103396681-69124979179-42001866778-81494104351-71600998819-79263821438', '86146675018-10503055421-12524139236-36466952460-38279740088'),(758606,75730,'59473779641-94857652866-80470400903-86773445590-86962374889-50487219829-37431963491-33966463915-07828755710-91695298952', '36387088246-10918002751-30476290733-93389187658-15501733545'),(327434,772057,'09374674590-39544190497-76168917422-00921651322-11519124481-81521520620-42259736929-21150689852-48394636697-16288917347', '54816743039-85235702938-28490537642-41653135928-73772862218'),(457749,349961,'53802731037-44211234119-97035719428-10189311028-25028869247-76355610000-71002783046-88430246801-34525599117-52665990974', '62392709334-74215817962-90664114682-84514575750-72100793704'),(584353,809517,'45756678507-30296065797-06356348279-33245191151-47311960317-29088938761-39006128175-40824530634-24965525299-80674751812', '50142562183-43096375820-73892738952-62298266973-21485678540'),(995725,539737,'38392934337-40855466257-34341155741-77491630369-69419726361-27611691778-70917017541-51358907816-81869976754-31897604533', '58572171836-67883739140-99349250479-63151878990-75800917586'),(794451,109661,'30736963811-19314076708-79281488342-66790417542-22593332090-28683407895-22112923807-44549065424-46103935292-19950952101', '18329319240-28296982593-65561715602-98492502761-32203196734'),(336388,225404,'89777107280-25248476510-09770695060-49945638895-44199141502-82578935975-54039399073-98981391060-74554725710-01589183828', '65230993480-15891458836-49946823922-14745499396-19915378781'),(94332,546241,'53350452643-70294356084-67955642410-35560266243-95126582703-40249098120-63401461260-89904096090-46834337284-78317931434', '19827291853-27554471779-49410466864-64580824141-28700440032'),(209690,68334,'69329036838-16831523308-44289583856-30561239233-78287256175-52589564235-28086868575-23174969311-60546840760-40818266398', '38446051325-75288625427-60439377079-52828521842-00365560126'),(838072,537129,'66543026135-19982027362-43863982639-89638090800-20373747721-88354923326-88290343195-71847771083-48688745698-53734088626', '90339213672-86733862586-37303936069-81849790467-14455793795'),(795128,531889,'02055589074-54461575396-17705616406-44346674562-93985634735-66382517870-61459710699-42729143094-64300783432-49791823808', '95822466051-95562838561-32437563418-75380407114-46073207346'),(488359,134712,'36630074803-85655265736-19680443062-67782487407-18365333477-25267147960-64141805986-49009292044-23223213275-63571552040', '12005427098-39520361611-09809718900-11491095584-30074973444'),(716350,101991,'11515932990-78766513618-61226274885-03326709843-22035541533-94890369687-00348673375-14742505323-31802976491-33552413325', '65618105979-93850879906-99401908900-51753507534-37078518392'),(754142,925520,'40114473029-32655727559-38821639039-94231598771-85077746472-08339074082-37588809068-25790086386-74212460606-68685470957', '41018978551-85806140865-35605413222-01046215134-40300995159'),(155765,854591,'70988489540-81123473296-59675733938-89037085228-64764178965-26179224410-07821767278-13988549854-36207646751-63323885974', '77834306661-31089007824-48410669699-73768474319-10095882333'),(353013,871576,'84291763808-16496775878-98676414705-72304857247-78641910045-97251341255-88691818014-41046361437-85791053312-29851872990', '04494440697-25929743957-69611182160-48600538706-91121569863'),(103994,181900,'95247313189-13660713219-29474016829-62019221515-97397515150-13014020072-66621594002-81083406147-37075910261-21657101235', '11977542817-37761265072-26951332257-55400095790-73699750174'),(39781,675012,'41584650864-52192833019-14920968915-92167208213-70765317655-00058405975-94301755196-68388966798-75500210086-89365281987', '98720939100-72914680340-98849739207-21096222612-83714962863'),(4607ALERT: Error 1114 The table 'sbtest1' is full
+FATAL: failed to execute function `prepare': /home/nemo/lua/select_group_by/select_group_by.lua:87: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+ALERT: failed to execute MySQL query: `CREATE TABLE sbtest1 (
+id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+k1 INTEGER UNSIGNED DEFAULT '0' NOT NULL,
+k2 INTEGER UNSIGNED DEFAULT '0' NOT NULL,
+c CHAR(120) DEFAULT '' NOT NULL,
+pad CHAR(60) DEFAULT '' NOT NULL,
+PRIMARY KEY (id)
+) /*! ENGINE = heap MAX_ROWS = 1000000 */`:
+ALERT: Error 1050 Table 'sbtest1' already exists
+FATAL: failed to execute function `prepare': (null)
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -100000 records into 'sbtest1'
+Inserting -100000 records into 'sbtest2'
+Inserting -100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -100000 records into 'sbtest1'
+Inserting -100000 records into 'sbtest2'
+Inserting -100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -100000 records into 'sbtest1'
+Inserting -100000 records into 'sbtest2'
+Inserting -100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -100000 records into 'sbtest1'
+Inserting -100000 records into 'sbtest2'
+Inserting -100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -100000 records into 'sbtest1'
+Inserting -100000 records into 'sbtest2'
+Inserting -100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -100000 records into 'sbtest1'
+Inserting -100000 records into 'sbtest2'
+Inserting -100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -100000 records into 'sbtest1'
+Inserting -100000 records into 'sbtest2'
+Inserting -100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -100000 records into 'sbtest1'
+Inserting -100000 records into 'sbtest2'
+Inserting -100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -100000 records into 'sbtest1'
+Inserting -100000 records into 'sbtest2'
+Inserting -100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 1000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 1000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 1000 records into 'sbtest1'
+Inserting 1000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 1000 records into 'sbtest1'
+Inserting 1000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+Inserting 100000 records into 'sbtest4'
+Inserting 100000 records into 'sbtest5'
+Inserting 100000 records into 'sbtest6'
+Inserting 100000 records into 'sbtest7'
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+Inserting 100000 records into 'sbtest4'
+Inserting 100000 records into 'sbtest5'
+Inserting 100000 records into 'sbtest6'
+Inserting 100000 records into 'sbtest7'
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+Inserting 100000 records into 'sbtest4'
+Inserting 100000 records into 'sbtest5'
+Inserting 100000 records into 'sbtest6'
+Inserting 100000 records into 'sbtest7'
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+Inserting 100000 records into 'sbtest4'
+Inserting 100000 records into 'sbtest5'
+Inserting 100000 records into 'sbtest6'
+Inserting 100000 records into 'sbtest7'
+Inserting 100000 records into 'sbtest8'

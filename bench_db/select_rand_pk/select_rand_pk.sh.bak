@@ -1,0 +1,166 @@
+#!/bin/bash
+
+basedir=$(cd $(dirname $0);pwd)
+echo $basedir
+sb_opts=$1
+echo $sb_opts
+output_dir=$2
+echo $output_dir
+echo $3
+
+##测试参数设定
+
+interval_sec=10
+test_type="select_rand_pk"
+#num_thread="4 8 16 32"
+num_thread="4 8"
+declare -a table_size
+#table_size=(1000000 10000000 30000000 100000000)
+table_size=(10000 30000)
+table_count=3
+#max_time=180
+max_time=180
+run_time=0
+test_time=0
+try_time=10
+
+if [ -d $output_dir ]; then
+	echo "$output_dir已经存在"
+	else
+	mkdir -p $output_dir
+	check=$?
+	if [ $check -eq 1 ]; then
+	echo "创建目录"$output_dir"失败"
+	exit 1
+	fi
+fi
+touch $2
+date_start=$(date +%s)
+
+localpid=$$
+#echo "localpid:"$localpid
+
+{
+count=0
+checkpid=`ps -ef |grep $localpid|grep -v grep|wc -l`
+while [ $checkpid -gt 0 ]
+do
+{
+	sleep 1
+        count=$(($count+1))
+        if [ $count -eq 60 ]; then
+	mysql $3 <<EOF 
+		reset master
+EOF
+	echo `date`"  RESET MASTER!!!"
+	count=0
+	fi
+	checkpid=`ps -ef |grep $localpid|grep -v grep|wc -l`	
+#	echo $checkpid
+} 
+done
+} &
+
+
+for size in ${table_size[*]}
+do
+        if [ $test_time -eq 0 ]; then
+	echo "sysbench --test=$basedir/$test_type.lua $sb_opts --oltp-tables-count=$table_count --oltp-table-size=$size --rand-init=on --oltp-read-only=off --report-interval=$interval_sec --rand-type=special --rand-spec-pct=5 --max-time=$max_time --max-requests=0 prepare"
+	sysbench --test=$basedir/$test_type.lua $sb_opts --oltp-tables-count=$table_count --oltp-table-size=$size --rand-init=on --oltp-read-only=off --report-interval=$interval_sec --rand-type=special --rand-spec-pct=5 --max-time=$max_time --max-requests=0 prepare | tee -a $2/prepare	
+	else
+	a=${table_size[$test_time]}
+	b=${table_size[$(($test_time-1))]}
+	let asize=$a-$b
+ 	echo $asize
+
+#	echo "sysbench --test=$basedir/$test_type"_delta.lua" $sb_opts --oltp-tables-count=$table_count --oltp-table-size=$asize --rand-init=on --oltp-read-only=off --report-interval=$interval_sec --rand-type=special --rand-spec-pct=5 --max-time=$max_time prepare"
+        sysbench --test=$basedir/$test_type"_delta.lua" $sb_opts --oltp-tables-count=$table_count --oltp-table-size=$asize --rand-init=on --oltp-read-only=off --report-interval=$interval_sec --rand-type=special --rand-spec-pct=5 --max-time=$max_time --max-requests=0 prepare | tee -a $2/prepare
+	fi	
+	if [ $? -eq 1 ]; then
+		echo "sysbench prepare failed"
+	fi
+	sync
+        
+#	echo "mysqld_multi --defaults-extra-file=/home/uc/app/mysql/data/3300/3300.cnf --password=123456 stop 3300" 	
+#	mysqld_multi --defaults-extra-file=/home/uc/app/mysql/data/3300/3300.cnf --password=123456 stop 3300
+	mysqld_multi stop 3306      
+	echo "Waiting stop...sleep 10s"  
+	sleep 10	
+ 	echo "mysqladmin $3 ping"
+	mysqladmin $3 ping 	
+	check=$?
+	if [ $check -eq 0 ]; then 
+		echo "Still alive"
+		echo "Waiting stop...sleep 10s"
+		sleep 10
+		mysqladmin $3 ping
+		check=$?
+		while [ $check -eq 0 ] && [ $try_time -gt 0 ]
+		do
+		echo "Still alive, trt $try_time"
+		sleep 10
+		try_time=$(($try_time-1))
+		mysqladmin $3 ping
+		check=$?
+		done	
+	else
+		mysqld_multi start 3306
+#		echo "mysqld_multi --defaults-extra-file=/home/uc/app/mysql/data/3300/3300.cnf start 3300"
+#		mysqld_multi --defaults-extra-file=/home/uc/app/mysql/data/3300/3300.cnf start 3300
+	fi
+	echo "Waiting start...sleep 10s"
+	sleep 10
+	mysqladmin $3 ping
+	check=$?
+	try_time=10
+	if [ $check -eq 1 ]; then
+		mysqld_multi --defaults-extra-file=/home/uc/app/mysql/data/3300/3300.cnf start 3300
+		echo "Retry starting.Waiting.try $try_time."
+		sleep 10
+		mysqladmin $3 ping
+		check=$?
+		while [ $check -eq 1 ] && [ $try_time -gt 0 ]
+		do 
+		mysqld_multi --defaults-extra-file=/home/uc/app/mysql/data/3300/3300.cnf start 3300
+		echo "Retry starting.Waiting.try $try_time."
+		sleep 10
+		try_time=$(($try_time-1))
+		mysqladmin $3 ping
+		check=$?
+		done
+	fi
+
+ 	mysql $3 <<EOF 
+		set global query_cache_size=0;
+		set global query_cache_type=off; 
+EOF
+		
+	com_select=`mysql $3 -e "show global status like 'com_select';"|awk 'NR==2{print $2}'` 
+ 	com_update=`mysql $3 -e "show global status like 'com_update';"|awk 'NR==2{print $2}'`
+	com_delete=`mysql $3 -e "show global status like 'com_delete';"|awk 'NR==2{print $2}'`
+	com_insert=`mysql $3 -e "show global status like 'com_insert';"|awk 'NR==2{print $2}'`
+
+	for thread in ${num_thread}
+	do
+	while [ $run_time -lt 3 ]
+	do
+#	echo "sysbench --test=$basedir/$test_type.lua $sb_opts --oltp-tables-count=$table_count --oltp-table-size=$size --rand-init=on --num-threads=$thread --oltp-read-only=off --report-interval=$interval_sec --rand-type=special --rand-spec-pct=5 --max-time=$max_time run | tee -a $basedir/$test_type/`date +%Y_%m_%d_%H_%M_%S`.rs"
+	rs_name=`date +%Y_%m_%d_%H_%M_%S`"_"$thread"-t_"$size"-r_$test_type"
+	sysbench --test=$basedir/$test_type.lua $sb_opts --oltp-tables-count=$table_count --oltp-table-size=$size --rand-init=on --num-threads=$thread --oltp-read-only=off --report-interval=$interval_sec --rand-type=special --rand-spec-pct=5 --max-time=$max_time --max-requests=0 run | tee -a $2/$rs_name".rs"
+	run_time=$(($run_time+1))
+	rs_count=$(($rs_count+1))
+        done
+	run_time=0
+	com_select_2=`mysql $3 -e "show global status like 'com_select';"|awk 'NR==2{print $2}'`
+        com_update_2=`mysql $3 -e "show global status like 'com_update';"|awk 'NR==2{print $2}'`
+        com_delete_2=`mysql $3 -e "show global status like 'com_delete';"|awk 'NR==2{print $2}'`
+        com_insert_2=`mysql $3 -e "show global status like 'com_insert';"|awk 'NR==2{print $2}'`
+	echo $thread"_"$size" "$(($com_select_2-$com_select))" "$(($com_update_2-$com_update))" "$(($com_insert_2-$com_insert))" "$(($com_delete_2-$com_delete))>> $2/com
+
+        done
+	test_time=$(($test_time+1))
+done 
+sysbench --test=$basedir/$test_type.lua $sb_opts --oltp-tables-count=$table_count --oltp-table-size=10000 --rand-init=on --num-threads=16 --oltp-read-only=off --report-interval=$interval_sec --rand-type=special --rand-spec-pct=5 --max-time=$max_time --max-requests=0 cleanup
+
+$basedir/../cut.sh $test_type $output_dir/ 1 8 $4 "$5"
+exit 0

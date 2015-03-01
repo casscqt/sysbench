@@ -1,0 +1,55 @@
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 4
+Report intermediate results every 10 second(s)
+Initializing random number generator from timer.
+
+Random number generator seed is 0 and will be ignored
+
+
+Threads started!
+
+[  10s] threads: 4, tps: 0.00, reads/s: 20.01, writes/s: 0.00 response time: 810.21ms (95%)
+[  20s] threads: 4, tps: 0.00, reads/s: 22.00, writes/s: 0.00 response time: 823.17ms (95%)
+[  30s] threads: 4, tps: 0.00, reads/s: 9.70, writes/s: 0.00 response time: 1629.87ms (95%)
+[  40s] threads: 4, tps: 0.00, reads/s: 18.91, writes/s: 0.00 response time: 939.61ms (95%)
+[  50s] threads: 4, tps: 0.00, reads/s: 9.40, writes/s: 0.00 response time: 1839.39ms (95%)
+[  60s] threads: 4, tps: 0.00, reads/s: 17.20, writes/s: 0.00 response time: 1412.15ms (95%)
+[  70s] threads: 4, tps: 0.00, reads/s: 18.10, writes/s: 0.00 response time: 1045.27ms (95%)
+[  80s] threads: 4, tps: 0.00, reads/s: 12.90, writes/s: 0.00 response time: 1743.94ms (95%)
+[  90s] threads: 4, tps: 0.00, reads/s: 17.10, writes/s: 0.00 response time: 1442.49ms (95%)
+[ 100s] threads: 4, tps: 0.00, reads/s: 12.86, writes/s: 0.00 response time: 1439.04ms (95%)
+[ 110s] threads: 4, tps: 0.00, reads/s: 9.43, writes/s: 0.00 response time: 2508.15ms (95%)
+[ 120s] threads: 4, tps: 0.00, reads/s: 20.30, writes/s: 0.00 response time: 1095.57ms (95%)
+[ 130s] threads: 4, tps: 0.00, reads/s: 8.40, writes/s: 0.00 response time: 1921.56ms (95%)
+[ 140s] threads: 4, tps: 0.00, reads/s: 14.50, writes/s: 0.00 response time: 1435.16ms (95%)
+[ 150s] threads: 4, tps: 0.00, reads/s: 16.90, writes/s: 0.00 response time: 1115.76ms (95%)
+[ 160s] threads: 4, tps: 0.00, reads/s: 13.30, writes/s: 0.00 response time: 1769.18ms (95%)
+[ 170s] threads: 4, tps: 0.00, reads/s: 29.80, writes/s: 0.00 response time: 624.82ms (95%)
+[ 180s] threads: 4, tps: 0.00, reads/s: 14.80, writes/s: 0.00 response time: 1462.49ms (95%)
+OLTP test statistics:
+    queries performed:
+        read:                            2860
+        write:                           0
+        other:                           0
+        total:                           2860
+    transactions:                        0      (0.00 per sec.)
+    deadlocks:                           0      (0.00 per sec.)
+    read/write requests:                 2860   (15.82 per sec.)
+    other operations:                    0      (0.00 per sec.)
+
+General statistics:
+    total time:                          180.7298s
+    total number of events:              2860
+    total time taken by event execution: 721.6161s
+    response time:
+         min:                                  0.35ms
+         avg:                                252.31ms
+         max:                               4848.00ms
+         approx.  95 percentile:            1355.41ms
+
+Threads fairness:
+    events (avg/stddev):           715.0000/40.19
+    execution time (avg/stddev):   180.4040/0.19
+

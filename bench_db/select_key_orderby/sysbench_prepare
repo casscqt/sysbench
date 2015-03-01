@@ -1,0 +1,783 @@
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 10000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 10000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 10000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 200000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 200000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 200000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 200000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 200000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 200000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 200000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 200000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -200000 records into 'sbtest1'
+Inserting -200000 records into 'sbtest2'
+Inserting -200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 200000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 200000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -200000 records into 'sbtest1'
+Inserting -200000 records into 'sbtest2'
+Inserting -200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 200000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 200000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting -200000 records into 'sbtest1'
+Inserting -200000 records into 'sbtest2'
+Inserting -200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 200000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 200000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 200000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 200000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 200000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 1000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 1000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 1000 records into 'sbtest1'
+Inserting 1000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 1000 records into 'sbtest1'
+Inserting 1000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/usr/local/mysql/tmp/3306/mysql.sock' (2)
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:61: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/usr/local/mysql/tmp/3306/mysql.sock' (2)
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:61: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/usr/local/mysql/tmp/3306/mysql.sock' (2)
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:61: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+ALERT: failed to execute MySQL query: `CREATE TABLE sbtest1 (
+id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+k INTEGER UNSIGNED DEFAULT '0' NOT NULL,
+c CHAR(120) DEFAULT '' NOT NULL,
+pad CHAR(60) DEFAULT '' NOT NULL,
+PRIMARY KEY (id)
+) /*! ENGINE = innodb MAX_ROWS = 1000000 */`:
+ALERT: Error 1050 Table 'sbtest1' already exists
+FATAL: failed to execute function `prepare': (null)
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/usr/local/mysql/tmp/3306/mysql.sock' (2)
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:61: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/usr/local/mysql/tmp/3306/mysql.sock' (2)
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:61: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/usr/local/mysql/tmp/3306/mysql.sock' (2)
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:61: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest'...
+Inserting 100000 records into 'sbtest'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest'...
+Inserting 100000 records into 'sbtest1'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest1(k, c, pad) VALUES(1, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(2, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(3, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(4, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(5, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(6, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(7, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(8, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(9, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(10, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(11, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(12, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(13, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(14, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(15, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(16, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(17, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(18, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(19, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(20, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(21, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(22, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(23, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(24, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(25, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(26, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(27, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(28, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(29, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(30, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(31, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(32, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(33, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(34, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(35, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(36, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(37, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(38, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(39, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(40, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(41, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(42, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(43, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(44, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(45, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(46, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(47, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(48, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(49, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(50, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(51, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(52, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(53, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(54, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(55, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(56, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(57, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(58, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(59, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(60, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(61, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(62, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(63, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(64ALERT: Error 1146 Table 'sbtest.sbtest1' doesn't exist
+FATAL: failed to execute function `prepare': ...pts/remote/select_key_orderby/select_key_orderby.lua:84: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest'...
+Inserting 100000 records into 'sbtest1'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest1(k, c, pad) VALUES(1, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(2, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(3, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(4, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(5, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(6, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(7, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(8, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(9, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(10, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(11, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(12, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(13, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(14, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(15, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(16, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(17, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(18, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(19, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(20, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(21, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(22, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(23, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(24, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(25, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(26, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(27, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(28, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(29, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(30, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(31, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(32, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(33, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(34, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(35, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(36, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(37, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(38, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(39, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(40, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(41, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(42, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(43, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(44, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(45, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(46, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(47, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(48, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(49, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(50, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(51, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(52, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(53, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(54, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(55, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(56, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(57, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(58, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(59, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(60, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(61, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(62, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(63, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(64ALERT: Error 1146 Table 'sbtest.sbtest1' doesn't exist
+FATAL: failed to execute function `prepare': ...pts/remote/select_key_orderby/select_key_orderby.lua:84: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+ALERT: failed to execute MySQL query: `CREATE INDEX k on sbtest(k)`:
+ALERT: Error 1146 Table 'sbtest.sbtest' doesn't exist
+FATAL: failed to execute function `prepare': (null)
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest(k, c, pad) VALUES(1, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(2, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(3, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(4, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(5, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(6, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(7, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(8, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(9, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(10, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(11, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(12, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(13, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(14, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(15, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(16, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(17, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(18, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(19, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(20, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(21, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(22, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(23, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(24, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(25, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(26, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(27, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(28, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(29, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(30, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(31, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(32, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(33, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(34, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(35, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(36, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(37, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(38, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(39, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(40, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(41, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(42, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(43, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(44, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(45, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(46, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(47, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(48, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(49, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(50, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(51, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(52, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(53, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(54, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(55, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(56, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(57, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(58, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(59, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(60, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(61, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(62, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(63, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(64,ALERT: Error 1146 Table 'sbtest.sbtest' doesn't exist
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:26: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest(k, c, pad) VALUES(1, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(2, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(3, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(4, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(5, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(6, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(7, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(8, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(9, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(10, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(11, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(12, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(13, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(14, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(15, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(16, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(17, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(18, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(19, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(20, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(21, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(22, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(23, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(24, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(25, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(26, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(27, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(28, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(29, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(30, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(31, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(32, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(33, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(34, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(35, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(36, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(37, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(38, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(39, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(40, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(41, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(42, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(43, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(44, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(45, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(46, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(47, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(48, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(49, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(50, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(51, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(52, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(53, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(54, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(55, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(56, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(57, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(58, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(59, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(60, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(61, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(62, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(63, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(64,ALERT: Error 1146 Table 'sbtest.sbtest' doesn't exist
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:26: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest(k, c, pad) VALUES(1, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(2, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(3, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(4, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(5, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(6, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(7, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(8, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(9, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(10, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(11, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(12, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(13, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(14, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(15, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(16, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(17, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(18, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(19, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(20, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(21, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(22, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(23, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(24, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(25, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(26, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(27, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(28, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(29, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(30, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(31, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(32, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(33, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(34, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(35, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(36, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(37, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(38, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(39, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(40, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(41, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(42, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(43, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(44, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(45, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(46, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(47, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(48, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(49, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(50, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(51, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(52, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(53, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(54, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(55, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(56, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(57, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(58, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(59, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(60, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(61, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(62, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(63, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(64,ALERT: Error 1146 Table 'sbtest.sbtest' doesn't exist
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:26: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+ALERT: failed to execute MySQL query: `CREATE TABLE sbtest1 (
+id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+k INTEGER UNSIGNED DEFAULT '0' NOT NULL,
+c CHAR(120) DEFAULT '' NOT NULL,
+pad CHAR(60) DEFAULT '' NOT NULL,
+PRIMARY KEY (id)
+) /*! ENGINE = innodb MAX_ROWS = 1000000 */`:
+ALERT: Error 1050 Table 'sbtest1' already exists
+FATAL: failed to execute function `prepare': (null)
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest(k, c, pad) VALUES(1, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(2, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(3, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(4, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(5, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(6, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(7, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(8, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(9, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(10, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(11, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(12, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(13, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(14, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(15, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(16, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(17, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(18, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(19, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(20, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(21, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(22, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(23, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(24, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(25, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(26, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(27, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(28, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(29, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(30, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(31, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(32, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(33, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(34, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(35, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(36, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(37, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(38, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(39, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(40, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(41, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(42, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(43, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(44, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(45, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(46, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(47, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(48, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(49, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(50, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(51, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(52, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(53, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(54, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(55, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(56, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(57, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(58, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(59, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(60, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(61, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(62, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(63, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(64,ALERT: Error 1146 Table 'sbtest.sbtest' doesn't exist
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:26: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest(k, c, pad) VALUES(1, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(2, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(3, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(4, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(5, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(6, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(7, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(8, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(9, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(10, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(11, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(12, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(13, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(14, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(15, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(16, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(17, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(18, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(19, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(20, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(21, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(22, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(23, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(24, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(25, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(26, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(27, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(28, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(29, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(30, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(31, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(32, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(33, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(34, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(35, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(36, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(37, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(38, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(39, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(40, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(41, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(42, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(43, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(44, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(45, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(46, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(47, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(48, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(49, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(50, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(51, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(52, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(53, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(54, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(55, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(56, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(57, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(58, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(59, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(60, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(61, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(62, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(63, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(64,ALERT: Error 1146 Table 'sbtest.sbtest' doesn't exist
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:26: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 1049: Unknown database 'sbtest'
+FATAL: failed to execute function `prepare': ...pts/remote/select_key_orderby/select_key_orderby.lua:102: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest(k, c, pad) VALUES(1, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(2, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(3, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(4, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(5, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(6, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(7, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(8, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(9, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(10, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(11, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(12, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(13, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(14, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(15, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(16, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(17, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(18, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(19, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(20, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(21, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(22, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(23, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(24, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(25, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(26, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(27, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(28, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(29, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(30, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(31, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(32, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(33, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(34, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(35, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(36, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(37, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(38, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(39, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(40, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(41, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(42, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(43, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(44, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(45, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(46, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(47, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(48, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(49, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(50, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(51, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(52, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(53, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(54, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(55, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(56, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(57, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(58, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(59, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(60, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(61, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(62, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(63, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(64,ALERT: Error 1146 Table 'sbtest.sbtest' doesn't exist
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:26: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest(k, c, pad) VALUES(1, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(2, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(3, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(4, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(5, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(6, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(7, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(8, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(9, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(10, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(11, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(12, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(13, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(14, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(15, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(16, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(17, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(18, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(19, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(20, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(21, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(22, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(23, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(24, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(25, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(26, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(27, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(28, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(29, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(30, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(31, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(32, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(33, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(34, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(35, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(36, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(37, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(38, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(39, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(40, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(41, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(42, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(43, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(44, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(45, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(46, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(47, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(48, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(49, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(50, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(51, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(52, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(53, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(54, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(55, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(56, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(57, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(58, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(59, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(60, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(61, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(62, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(63, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(64,ALERT: Error 1146 Table 'sbtest.sbtest' doesn't exist
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:26: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+ALERT: failed to execute MySQL query: `       CREATE TABLE sbtest1 (
+          id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+          k INTEGER UNSIGNED DEFAULT '0' NOT NULL,
+          c CHAR(120) DEFAULT '' NOT NULL,
+          pad CHAR(60) DEFAULT '' NOT NULL,
+          PRIMARY KEY (id)
+        ) /*! ENGINE = innodb MAX_ROWS = 1000000 */`:
+ALERT: Error 1050 Table 'sbtest1' already exists
+FATAL: failed to execute function `prepare': (null)
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest'
+ALERT: failed to execute MySQL query: `INSERT INTO sbtest(k, c, pad) VALUES(1, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(2, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(3, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(4, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(5, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(6, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(7, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(8, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(9, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(10, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(11, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(12, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(13, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(14, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(15, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(16, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(17, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(18, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(19, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(20, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(21, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(22, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(23, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(24, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(25, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(26, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(27, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(28, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(29, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(30, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(31, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(32, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(33, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(34, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(35, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(36, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(37, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(38, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(39, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(40, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(41, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(42, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(43, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(44, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(45, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(46, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(47, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(48, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(49, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(50, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(51, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(52, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(53, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(54, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(55, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(56, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(57, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(58, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(59, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(60, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(61, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(62, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(63, ' ', 'qqqqqqqqqqwwwwwwwwwweeeeeeeeeerrrrrrrrrrtttttttttt'),(64,ALERT: Error 1146 Table 'sbtest.sbtest' doesn't exist
+FATAL: failed to execute function `prepare': ...mote/select_key_orderby/select_key_orderby_delta.lua:26: db_bulk_insert_next() failed
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/usr/local/mysql/tmp/3306/mysql.sock' (2)
+FATAL: failed to execute function `prepare': ...pts/remote/select_key_orderby/select_key_orderby.lua:102: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/usr/local/mysql/tmp/3306/mysql.sock' (2)
+FATAL: failed to execute function `prepare': ...pts/remote/select_key_orderby/select_key_orderby.lua:102: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+Inserting 100000 records into 'sbtest4'
+Inserting 100000 records into 'sbtest5'
+Inserting 100000 records into 'sbtest6'
+Inserting 100000 records into 'sbtest7'
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+Inserting 100000 records into 'sbtest4'
+Inserting 100000 records into 'sbtest5'
+Inserting 100000 records into 'sbtest6'
+Inserting 100000 records into 'sbtest7'
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+Inserting 100000 records into 'sbtest4'
+Inserting 100000 records into 'sbtest5'
+Inserting 100000 records into 'sbtest6'
+Inserting 100000 records into 'sbtest7'
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+Inserting 100000 records into 'sbtest4'
+Inserting 100000 records into 'sbtest5'
+Inserting 100000 records into 'sbtest6'
+Inserting 100000 records into 'sbtest7'
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/usr/local/mysql/tmp/3306/mysql.sock' (2)
+FATAL: failed to execute function `prepare': ...top/remote/select_key_orderby/select_key_orderby.lua:102: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 1045: Access denied for user 'root'@'localhost' (using password: YES)
+FATAL: failed to execute function `prepare': ...top/remote/select_key_orderby/select_key_orderby.lua:102: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/usr/local/mysql/tmp/3306/mysql.sock' (2)
+FATAL: failed to execute function `prepare': ...top/remote/select_key_orderby/select_key_orderby.lua:102: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 1049: Unknown database 'sbtest'
+FATAL: failed to execute function `prepare': ...top/remote/select_key_orderby/select_key_orderby.lua:102: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 2002: Can't connect to local MySQL server through socket '/usr/local/mysql/tmp/3306/mysql.sock' (2)
+FATAL: failed to execute function `prepare': ...top/remote/select_key_orderby/select_key_orderby.lua:102: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 1049: Unknown database 'sbtest'
+FATAL: failed to execute function `prepare': ...top/remote/select_key_orderby/select_key_orderby.lua:102: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+Inserting 100000 records into 'sbtest4'
+Inserting 100000 records into 'sbtest5'
+Inserting 100000 records into 'sbtest6'
+Inserting 100000 records into 'sbtest7'
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Inserting 100000 records into 'sbtest1'
+Inserting 100000 records into 'sbtest2'
+Inserting 100000 records into 'sbtest3'
+Inserting 100000 records into 'sbtest4'
+Inserting 100000 records into 'sbtest5'
+Inserting 100000 records into 'sbtest6'
+Inserting 100000 records into 'sbtest7'
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+FATAL: unable to connect to MySQL server, aborting...
+FATAL: error 1049: Unknown database 'sbtest'
+FATAL: failed to execute function `prepare': ...top/remote/select_key_orderby/select_key_orderby.lua:102: Failed to connect to the database
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'
+Creating table 'sbtest5'...
+Inserting 100000 records into 'sbtest5'
+Creating table 'sbtest6'...
+Inserting 100000 records into 'sbtest6'
+Creating table 'sbtest7'...
+Inserting 100000 records into 'sbtest7'
+Creating table 'sbtest8'...
+Inserting 100000 records into 'sbtest8'
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+ALERT: failed to execute MySQL query: `CREATE TABLE sbtest1 (
+id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+k INTEGER UNSIGNED DEFAULT '0' NOT NULL,
+c CHAR(120) DEFAULT '' NOT NULL,
+pad CHAR(60) DEFAULT '' NOT NULL,
+PRIMARY KEY (id)
+) /*! ENGINE = innodb MAX_ROWS = 1000000 */`:
+ALERT: Error 1050 Table 'sbtest1' already exists
+FATAL: failed to execute function `prepare': (null)
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+ALERT: failed to execute MySQL query: `CREATE TABLE sbtest1 (
+id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+k INTEGER UNSIGNED DEFAULT '0' NOT NULL,
+c CHAR(120) DEFAULT '' NOT NULL,
+pad CHAR(60) DEFAULT '' NOT NULL,
+PRIMARY KEY (id)
+) /*! ENGINE = innodb MAX_ROWS = 1000000 */`:
+ALERT: Error 1050 Table 'sbtest1' already exists
+FATAL: failed to execute function `prepare': (null)
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Creating table 'sbtest1'...
+Inserting 100000 records into 'sbtest1'
+Creating table 'sbtest2'...
+Inserting 100000 records into 'sbtest2'
+Creating table 'sbtest3'...
+Inserting 100000 records into 'sbtest3'
+Creating table 'sbtest4'...
+Inserting 100000 records into 'sbtest4'

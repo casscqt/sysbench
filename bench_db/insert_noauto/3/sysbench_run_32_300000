@@ -1,0 +1,53 @@
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 32
+Report intermediate results every 10 second(s)
+Random number generator seed is 0 and will be ignored
+
+
+Threads started!
+
+[  10s] threads: 32, tps: 1111.15, reads/s: 0.00, writes/s: 1113.25 response time: 61.74ms (95%)
+[  20s] threads: 32, tps: 840.09, reads/s: 0.00, writes/s: 840.19 response time: 70.01ms (95%)
+[  30s] threads: 32, tps: 981.42, reads/s: 0.00, writes/s: 981.82 response time: 66.54ms (95%)
+[  40s] threads: 32, tps: 1224.53, reads/s: 0.00, writes/s: 1223.93 response time: 59.87ms (95%)
+[  50s] threads: 32, tps: 1130.03, reads/s: 0.00, writes/s: 1130.43 response time: 53.38ms (95%)
+[  60s] threads: 32, tps: 977.94, reads/s: 0.00, writes/s: 978.34 response time: 67.69ms (95%)
+[  70s] threads: 32, tps: 1131.69, reads/s: 0.00, writes/s: 1131.09 response time: 59.90ms (95%)
+[  80s] threads: 32, tps: 1381.63, reads/s: 0.00, writes/s: 1381.83 response time: 58.12ms (95%)
+[  90s] threads: 32, tps: 992.60, reads/s: 0.00, writes/s: 991.90 response time: 72.60ms (95%)
+[ 100s] threads: 32, tps: 1084.19, reads/s: 0.00, writes/s: 1084.79 response time: 63.11ms (95%)
+[ 110s] threads: 32, tps: 1202.45, reads/s: 0.00, writes/s: 1202.75 response time: 70.33ms (95%)
+[ 120s] threads: 32, tps: 1087.57, reads/s: 0.00, writes/s: 1087.17 response time: 58.68ms (95%)
+[ 130s] threads: 32, tps: 983.91, reads/s: 0.00, writes/s: 983.91 response time: 75.89ms (95%)
+[ 140s] threads: 32, tps: 992.41, reads/s: 0.00, writes/s: 992.71 response time: 68.81ms (95%)
+[ 150s] threads: 32, tps: 851.61, reads/s: 0.00, writes/s: 852.11 response time: 83.94ms (95%)
+[ 160s] threads: 32, tps: 1305.55, reads/s: 0.00, writes/s: 1304.75 response time: 59.24ms (95%)
+[ 170s] threads: 32, tps: 867.55, reads/s: 0.00, writes/s: 866.75 response time: 83.16ms (95%)
+[ 180s] threads: 32, tps: 1321.07, reads/s: 0.00, writes/s: 1322.07 response time: 62.51ms (95%)
+OLTP test statistics:
+    queries performed:
+        read:                            0
+        write:                           200002
+        other:                           400004
+        total:                           600006
+    transactions:                        200002 (1072.38 per sec.)
+    deadlocks:                           0      (0.00 per sec.)
+    read/write requests:                 200002 (1072.38 per sec.)
+    other operations:                    400004 (2144.75 per sec.)
+
+General statistics:
+    total time:                          186.5037s
+    total number of events:              200002
+    total time taken by event execution: 5958.0968s
+    response time:
+         min:                                  0.39ms
+         avg:                                 29.79ms
+         max:                               3323.08ms
+         approx.  95 percentile:              65.57ms
+
+Threads fairness:
+    events (avg/stddev):           6250.0625/51.07
+    execution time (avg/stddev):   186.1905/0.02
+

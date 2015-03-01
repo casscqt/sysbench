@@ -1,0 +1,94 @@
+#!/bin/bash
+
+basedir=$(cd $(dirname $0);pwd)
+
+## sysbench输出结果每次间隔多少秒
+interval_sec=1
+test_type_list="insert_noauto"
+#numthreads_list="4 8 16 32"
+numthreads_list="2 4 6"
+#table_size_list="10000000 90000000 900000000"
+table_size_list="5000 5000 10000 10000"
+table_count=1
+filenum=1
+####建立输出文件存放目录#########
+for ((j=1;j<=3;j++))
+  do
+        if [ ! -d  $basedir/$j ];then
+                mkdir $basedir/$j
+        else
+                rm -rf $basedir/$j
+                mkdir $basedir/$j
+        fi
+  done
+#################################
+sysbench --test=$basedir/insert_noauto.lua --mysql-table-engine=innodb  --oltp-test-mode=complex --oltp-tables-count=$table_count --oltp-auto-inc=off  $1 prepare |tee -a $basedir/sysbench_prepare
+ if [ "$?" != "0" ];then
+          echo "sysbench prepare failed"
+ fi
+ /usr/local/mysql/bin/mysqladmin shutdown $2
+     /usr/local/mysql/bin/mysqld_multi start 3306
+      if [ ! "echo `netstat -ntlp | grep 3306`" ];then
+        echo "启动数据库失败"
+        exit 1;
+      fi
+    sleep 10 #等待mysql服务开启
+      mysql $2 <<EOF
+        set global query_cache_type=off;   
+EOF
+#######################收集com_select，com_delete，com_update，com_insert##############################################
+date_start=$(date +%s)
+com_select_1=`mysql $2 -e "show global status like 'Com_select';" | awk 'NR==2 {print $2}'`
+com_delete_1=`mysql $2 -e "show global status like 'Com_delete';" | awk 'NR==2 {print $2}'`
+com_insert_1=`mysql $2 -e "show global status like 'Com_insert';" | awk 'NR==2 {print $2}'`
+com_update_1=`mysql $2 -e "show global status like 'Com_update';" | awk 'NR==2 {print $2}'`
+
+echo "########################################################开始测试:$table_size######################################################"
+for table_size in $table_size_list
+ do
+ for ((i=1;i<=3;i++))
+   do
+    for numthreads in $numthreads_list
+      do
+     sysbench --test=$basedir/insert_noauto.lua  --oltp-tables-count=$table_count  --oltp-test-mode=complex --oltp-auto-inc=off --oltp-table-size=$table_size  --max-requests=$table_size --num-threads=$numthreads  --report-interval=$interval_sec  $1 run |tee -a $basedir/${i}/sysbench_run_${numthreads}_${table_size}_${filenum}
+      if [ "$?" != "0" ];then
+          echo "sysbench run failed"
+      fi
+    done
+ done
+  filenum=$(($filenum+1))
+  echo "End running test :  `date`"
+done
+  filenum=$(($filenum-1))
+sleep 15
+#######################收集com_select，com_delete，com_update，com_insert##############################################
+date_stop=$(date +%s)
+com_select_2=`mysql $2 -e "show global status like 'Com_select';" | awk 'NR==2 {print $2}'`
+com_delete_2=`mysql $2 -e "show global status like 'Com_delete';" | awk 'NR==2 {print $2}'`
+com_insert_2=`mysql $2 -e "show global status like 'Com_insert';" | awk 'NR==2 {print $2}'`
+com_update_2=`mysql $2 -e "show global status like 'Com_update';" | awk 'NR==2 {print $2}'`
+let com_select="($com_select_2 - $com_select_1)"/"($date_stop-$date_start)"
+let com_delete="($com_delete_2 - $com_delete_1)"/"($date_stop-$date_start)"
+let com_insert="($com_insert_2 - $com_insert_1)"/"($date_stop-$date_start)"
+let com_update="($com_update_2 - $com_update_1)"/"($date_stop-$date_start)"
+extra_stat="s:$com_select/i:$com_insert/d:$com_delete/u:$com_update"
+echo "extra_stat : "$extra_stat
+########################################################结束测试######################################################
+
+sysbench --test=$basedir/insert_noauto.lua  --oltp-tables-count=$table_count --oltp-auto-inc=off $1 cleanup |tee -a $basedir/sysbench_cleanup
+
+echo "#############################################开始收集信息并入库###########################################################"
+updir=$(cd $basedir;cd ..;pwd)
+test_id=$3
+test_type=$4
+#######入库到db35##########################
+#conn="--user=dbbench --password=w5q9C4BHXgH3Y --host=10.16.133.35 --port=3306"
+#`sh $updir/collect.sh "$extra_stat" "$conn" "insert_noauto" "$numthreads_list" "$table_size_list" "$basedir"  "$test_id" "$test_type" "$filenum"`
+
+`sh $updir/collect.sh "$extra_stat" "$2" "insert_noauto" "$numthreads_list" "$table_size_list" "$basedir"  "$test_id" "$test_type" "$filenum"`
+
+if [ "$?" != "0" ];then
+    echo "入库出现错误，请检查入库脚本是否有错！"
+else
+    echo "入库成功"
+fi

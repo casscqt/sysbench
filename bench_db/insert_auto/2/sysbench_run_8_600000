@@ -1,0 +1,86 @@
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 8
+Report intermediate results every 10 second(s)
+Random number generator seed is 0 and will be ignored
+
+
+Threads started!
+
+[  10s] threads: 8, tps: 491.35, reads/s: 0.00, writes/s: 492.16 response time: 30.08ms (95%)
+[  20s] threads: 8, tps: 542.93, reads/s: 0.00, writes/s: 542.63 response time: 25.75ms (95%)
+[  30s] threads: 8, tps: 629.09, reads/s: 0.00, writes/s: 628.99 response time: 23.30ms (95%)
+[  40s] threads: 8, tps: 639.82, reads/s: 0.00, writes/s: 639.52 response time: 20.85ms (95%)
+[  50s] threads: 8, tps: 620.23, reads/s: 0.00, writes/s: 620.43 response time: 26.91ms (95%)
+[  60s] threads: 8, tps: 506.06, reads/s: 0.00, writes/s: 505.96 response time: 25.92ms (95%)
+[  70s] threads: 8, tps: 547.98, reads/s: 0.00, writes/s: 548.38 response time: 26.20ms (95%)
+[  80s] threads: 8, tps: 660.03, reads/s: 0.00, writes/s: 659.63 response time: 20.25ms (95%)
+[  90s] threads: 8, tps: 515.95, reads/s: 0.00, writes/s: 516.05 response time: 28.45ms (95%)
+[ 100s] threads: 8, tps: 478.39, reads/s: 0.00, writes/s: 478.69 response time: 35.26ms (95%)
+[ 110s] threads: 8, tps: 615.65, reads/s: 0.00, writes/s: 615.35 response time: 22.99ms (95%)
+[ 120s] threads: 8, tps: 671.94, reads/s: 0.00, writes/s: 671.94 response time: 23.18ms (95%)
+[ 130s] threads: 8, tps: 600.05, reads/s: 0.00, writes/s: 599.95 response time: 17.50ms (95%)
+[ 140s] threads: 8, tps: 588.01, reads/s: 0.00, writes/s: 588.11 response time: 27.71ms (95%)
+[ 150s] threads: 8, tps: 449.87, reads/s: 0.00, writes/s: 449.87 response time: 31.03ms (95%)
+[ 160s] threads: 8, tps: 844.16, reads/s: 0.00, writes/s: 844.06 response time: 21.01ms (95%)
+[ 170s] threads: 8, tps: 355.11, reads/s: 0.00, writes/s: 355.01 response time: 80.64ms (95%)
+[ 180s] threads: 8, tps: 845.02, reads/s: 0.00, writes/s: 845.12 response time: 17.81ms (95%)
+[ 190s] threads: 8, tps: 566.11, reads/s: 0.00, writes/s: 566.01 response time: 17.73ms (95%)
+[ 200s] threads: 8, tps: 737.80, reads/s: 0.00, writes/s: 738.10 response time: 17.55ms (95%)
+[ 210s] threads: 8, tps: 390.10, reads/s: 0.00, writes/s: 389.90 response time: 47.74ms (95%)
+[ 220s] threads: 8, tps: 688.99, reads/s: 0.00, writes/s: 689.19 response time: 18.75ms (95%)
+[ 230s] threads: 8, tps: 765.07, reads/s: 0.00, writes/s: 765.07 response time: 20.44ms (95%)
+[ 240s] threads: 8, tps: 471.96, reads/s: 0.00, writes/s: 471.96 response time: 39.13ms (95%)
+[ 250s] threads: 8, tps: 682.01, reads/s: 0.00, writes/s: 681.71 response time: 22.71ms (95%)
+[ 260s] threads: 8, tps: 599.99, reads/s: 0.00, writes/s: 599.99 response time: 23.75ms (95%)
+[ 270s] threads: 8, tps: 658.47, reads/s: 0.00, writes/s: 658.67 response time: 21.42ms (95%)
+[ 280s] threads: 8, tps: 423.53, reads/s: 0.00, writes/s: 423.73 response time: 28.50ms (95%)
+[ 290s] threads: 8, tps: 600.02, reads/s: 0.00, writes/s: 599.82 response time: 33.82ms (95%)
+[ 300s] threads: 8, tps: 557.85, reads/s: 0.00, writes/s: 557.75 response time: 23.50ms (95%)
+[ 310s] threads: 8, tps: 662.14, reads/s: 0.00, writes/s: 662.74 response time: 24.20ms (95%)
+[ 320s] threads: 8, tps: 467.40, reads/s: 0.00, writes/s: 467.10 response time: 33.13ms (95%)
+[ 330s] threads: 8, tps: 660.57, reads/s: 0.00, writes/s: 660.67 response time: 26.62ms (95%)
+[ 340s] threads: 8, tps: 543.60, reads/s: 0.00, writes/s: 543.10 response time: 29.11ms (95%)
+[ 350s] threads: 8, tps: 604.47, reads/s: 0.00, writes/s: 604.47 response time: 27.60ms (95%)
+[ 360s] threads: 8, tps: 634.69, reads/s: 0.00, writes/s: 635.09 response time: 19.64ms (95%)
+[ 370s] threads: 8, tps: 653.26, reads/s: 0.00, writes/s: 652.96 response time: 17.82ms (95%)
+[ 380s] threads: 8, tps: 750.08, reads/s: 0.00, writes/s: 750.38 response time: 22.20ms (95%)
+[ 390s] threads: 8, tps: 458.01, reads/s: 0.00, writes/s: 458.01 response time: 32.58ms (95%)
+[ 400s] threads: 8, tps: 591.43, reads/s: 0.00, writes/s: 591.23 response time: 21.59ms (95%)
+[ 410s] threads: 8, tps: 375.64, reads/s: 0.00, writes/s: 376.14 response time: 45.13ms (95%)
+[ 420s] threads: 8, tps: 514.87, reads/s: 0.00, writes/s: 514.37 response time: 29.20ms (95%)
+[ 430s] threads: 8, tps: 509.96, reads/s: 0.00, writes/s: 510.16 response time: 31.82ms (95%)
+[ 440s] threads: 8, tps: 623.89, reads/s: 0.00, writes/s: 623.39 response time: 21.35ms (95%)
+[ 450s] threads: 8, tps: 514.06, reads/s: 0.00, writes/s: 514.66 response time: 20.51ms (95%)
+[ 460s] threads: 8, tps: 558.11, reads/s: 0.00, writes/s: 558.31 response time: 32.12ms (95%)
+[ 470s] threads: 8, tps: 535.03, reads/s: 0.00, writes/s: 534.83 response time: 33.77ms (95%)
+[ 480s] threads: 8, tps: 603.00, reads/s: 0.00, writes/s: 602.80 response time: 31.44ms (95%)
+[ 490s] threads: 8, tps: 517.88, reads/s: 0.00, writes/s: 517.78 response time: 25.92ms (95%)
+[ 500s] threads: 8, tps: 524.12, reads/s: 0.00, writes/s: 524.22 response time: 25.00ms (95%)
+[ 510s] threads: 8, tps: 649.97, reads/s: 0.00, writes/s: 649.87 response time: 21.72ms (95%)
+OLTP test statistics:
+    queries performed:
+        read:                            0
+        write:                           300002
+        other:                           600004
+        total:                           900006
+    transactions:                        300002 (584.28 per sec.)
+    deadlocks:                           0      (0.00 per sec.)
+    read/write requests:                 300002 (584.28 per sec.)
+    other operations:                    600004 (1168.55 per sec.)
+
+General statistics:
+    total time:                          513.4587s
+    total number of events:              300002
+    total time taken by event execution: 4102.8199s
+    response time:
+         min:                                  0.44ms
+         avg:                                 13.68ms
+         max:                               1113.79ms
+         approx.  95 percentile:              25.41ms
+
+Threads fairness:
+    events (avg/stddev):           37500.2500/175.06
+    execution time (avg/stddev):   512.8525/0.01
+
